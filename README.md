@@ -1,4 +1,4 @@
-# 💻 Sobre o desafio : #boraCodar28
+# 💻 Sobre a aula : Responsivo Rocketseat
 
 Página responsiva.
 
